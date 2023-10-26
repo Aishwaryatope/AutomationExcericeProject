@@ -1,0 +1,4 @@
+browser.name=Chrome
+url=https://automationexercise.com
+Chrome.path = C:\\Users\\Ajit Tamboli\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe
+search.product.input=blue
